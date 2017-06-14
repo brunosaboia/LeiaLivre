@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Leia Livre",
   "version": "0.1",
-  "description": "Desativa o checador de AdBlocker em sites de not\u00edcias, como os da Abril (Exame, Veja, etc), Business Insider, and more",
+  "description": "Disables an Adblocker killer, such as the Editora Abril's (Exame, Veja, etc), Business Insider, and more",
   "offline_enabled": false,
   "browser_action": {
     "default_icon": "icon128.png"
